@@ -1,0 +1,16 @@
+Ryan Wall
+lab 1 questions
+
+Exercise 1
+3. http://localhost:61150/Home/About
+5. what happened is the controller got the home command and then the about command. 
+
+Exercise 2
+1. ActionResult contact()
+2. viewbag.Message = "Your contact page."
+4.Index, About, Contact
+
+Exercise 3
+3. An error page because I have not created a View yet.
+5. The View that I created. 
+8. What I see now is all of my person data, which is my first name, lastname and address.
